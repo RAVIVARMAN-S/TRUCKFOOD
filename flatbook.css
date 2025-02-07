@@ -1,0 +1,101 @@
+.bg-containerflatpage {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+    margin: 25px;
+
+}
+
+.whitecard {
+    background-color: #ffffff;
+    height: 40vh;
+    text-align: center;
+    padding: 45px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.button {
+    background-color: #f19116;
+    border-width: 0px;
+    font-size: 10px;
+    margin: 10px;
+}
+
+.mainheadingflat {
+    font-family: bree Serif;
+    color: #f19116;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.paraflat {
+    color: #6c6b70;
+    font-family: bree serif;
+}
+
+.bg-containerblack {
+    background-color: #222222;
+    margin: 25px;
+    padding: 15px;
+    height: 100vh;
+}
+
+
+.flatcard {
+    background-color: #ffffff;
+    height: 25vh;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.flatimage {
+    height: 25vh;
+    width: 75px;
+}
+
+.imageheading {
+    color: #0f0e46;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: bree serif;
+    padding: 5px;
+}
+
+.imagepara {
+    color: #6c6b70;
+    font-family: bree serif;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.bg-containerblack2 {
+    background-color: #222222;
+    margin: 25px;
+    height: 100vh;
+
+}
+
+.flatimageview {
+    height: 35vh;
+    width: 350px;
+}
+
+.locationpara {
+    color: #ffffff;
+    font-family: bree serif;
+    margin: 10px;
+    font-size: 12px;
+}
+
+.locationimage {
+    height: 20px;
+    margin: 10px;
+
+}
+
+.hor {
+    color: #ffffff;
+    padding: 5px;
+}
